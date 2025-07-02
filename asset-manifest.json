@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aldersfordeling-app/static/css/main.724b1619.css",
+    "main.js": "/aldersfordeling-app/static/js/main.97050ad0.js",
+    "static/js/453.aa15cf51.chunk.js": "/aldersfordeling-app/static/js/453.aa15cf51.chunk.js",
+    "index.html": "/aldersfordeling-app/index.html",
+    "main.724b1619.css.map": "/aldersfordeling-app/static/css/main.724b1619.css.map",
+    "main.97050ad0.js.map": "/aldersfordeling-app/static/js/main.97050ad0.js.map",
+    "453.aa15cf51.chunk.js.map": "/aldersfordeling-app/static/js/453.aa15cf51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724b1619.css",
+    "static/js/main.97050ad0.js"
+  ]
+}
