@@ -2,7 +2,7 @@
   "name": "aldersfordeling-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oyvind-asplin.github.io/aldersfordeling-app",
+  "homepage": "https://oyvind-asplin.github.io/my_first_react_app",
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
